@@ -4,7 +4,7 @@
 > 🚀 *A collection of internship projects spanning embedded IoT systems, AI-powered computer vision, machine learning, and analog circuit design.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-amirrehman19-black?style=flat-square&logo=github)](https://github.com/amirrehman19)
-[![Organization](https://img.shields.io/badge/Organization-GenXI%20Tech%20Solutions-orange?style=flat-square)]()
+[![Organization](https://img.shields.io/badge/Organization-GenXI%20Tech%20Solutions-orange?style=flat-square)](https://www.genxitechsolutions.com/)
 [![University](https://img.shields.io/badge/University-NUST%20PNEC-darkblue?style=flat-square)](https://www.nust.edu.pk)
 [![Status](https://img.shields.io/badge/All%20Projects-Completed-success?style=flat-square)]()
 

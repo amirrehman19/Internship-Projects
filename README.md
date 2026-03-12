@@ -456,7 +456,7 @@ spam-sms-detection/
 | 🏛️ **Institution** | NUST — PNEC, Karachi |
 | 🤝 **Organization** | GenXI Tech Solutions |
 | 🌐 **GitHub** | [@amirrehman19](https://github.com/amirrehman19) |
-| 💼 **Upwork** | [amirrehman19]([https://www.upwork.com](https://www.upwork.com/freelancers/~011ffb2a25924b0049?s=1031626803146899456)) |
+| 💼 **Upwork** | [amirrehman]([https://www.upwork.com](https://www.upwork.com/freelancers/~011ffb2a25924b0049?s=1031626803146899456)) |
 | 📅 **Year** | 2026 |
 
 ---
